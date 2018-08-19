@@ -6,5 +6,40 @@
 		"email":"nazmasyed9@gmail.com"
 	},"career":{
 		"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[{
+		"degree":"B.Tech(Compuiter Science & Engineering)",
+		"institute":"Vignan's Nirula",
+		"Data":["2016-2020","85%"]
+	},
+	{
+		"degree":"Intermediate(MPC)",
+		"institute":"Sri Chaitanya Junior College",
+		"Data":["2014-2016","96%"]
+	},
+	{
+		"degree":"S.S.C",
+		"institute":"VenuVidyaNikethan",
+		"Data":["2013-2014","95%"]
 	}
+    ],
+    "skills":[
+    	{
+    		"title":"programming languages",
+    		"content":["Python","C","Java","R","C++"]
+    	},
+    	{
+    		"title":"DataBses",
+    		"content":["SQL","oracle","mysql"]
+    	},
+    	{
+    		"title":"Web Technologies",
+    		"content":["Html","XML","Javascript","Css"]
+    	},
+    	{
+    		"title":"Operating Systems",
+    		"content":["Windows","Linux","Unix"]    	
+    	}
+
+    ]
 }
